@@ -1,26 +1,23 @@
-var slides = ["tomato
-	      "banana
-	      "zucchini
-	      "brocolli
-	      "barley
-	      "strawberries
-	      "blueberries
-	      "thyme
-	      "yellow onions
-	      "anchovies
-	      "carrot
-	      "garlic
-	      "mushrooms
-	      "kale
-	      "milk
-	      "yoghurt
-	      "chips
-	      "sandwich bread
-	      "lunch meat
-
-	      ]
-
-"slide 1", "slide 2", "slide 3", "slide 4", "slide 5"]
+var slides = ["tomato",
+	      "banana",
+	      "zucchini",
+	      "brocolli",
+	      "barley",
+	      "strawberries",
+	      "blueberries",
+	      "thyme",
+	      "yellow onions",
+	      "anchovies",
+	      "carrot",
+	      "garlic",
+	      "mushroom",
+	      "kale",
+	      "milk",
+	      "yoghurt",
+	      "chips",
+	      "sandwich bread",
+	      "lunch meat"
+	      ];
 var str = '<ul>'
 
     slides.forEach(function(slide) {
@@ -28,4 +25,4 @@ var str = '<ul>'
 	}); 
 
 str += '</ul>';
-document.getElementById("slideContainer").innerHTML = str;
+document.getElementById("myUL").innerHTML = str;
