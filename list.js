@@ -23,6 +23,7 @@ var slides = ["tomato",
 	      "snacks",
 	      "potato",
 	      "lime",
+	      "eggs",
 	      
 	      ];
 //var str = '<ul>'
