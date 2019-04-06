@@ -1,0 +1,31 @@
+var slides = ["tomato
+	      "banana
+	      "zucchini
+	      "brocolli
+	      "barley
+	      "strawberries
+	      "blueberries
+	      "thyme
+	      "yellow onions
+	      "anchovies
+	      "carrot
+	      "garlic
+	      "mushrooms
+	      "kale
+	      "milk
+	      "yoghurt
+	      "chips
+	      "sandwich bread
+	      "lunch meat
+
+	      ]
+
+"slide 1", "slide 2", "slide 3", "slide 4", "slide 5"]
+var str = '<ul>'
+
+    slides.forEach(function(slide) {
+	    str += '<li>'+ slide + '</li>';
+	}); 
+
+str += '</ul>';
+document.getElementById("slideContainer").innerHTML = str;
