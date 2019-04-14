@@ -1,31 +1,3 @@
-var slides = ["tomato",
-	      "banana",
-	      "zucchini",
-	      "brocolli",
-	      "barley",
-	      "strawberries",
-	      "blueberries",
-	      "thyme",
-	      "yellow onions",
-	      "anchovies",
-	      "carrot",
-	      "garlic",
-	      "mushroom",
-	      "kale",
-	      "milk",
-	      "yoghurt",
-	      "chips",
-	      "sandwich bread",
-	      "lunch meat",
-	      "cauliflower",
-	      "apples",
-	      "toilet paper",
-	      "snacks",
-	      "potato",
-	      "lime",
-	      "eggs",
-	      
-	      ];
 //var str = '<ul>'
 //var str = ''
 
