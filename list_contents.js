@@ -23,5 +23,4 @@ var slides = ["bananas",
 	      "asparagus",
 	      "lemon",
 	      "turkey bacon",
-	      "",
 	      ];
