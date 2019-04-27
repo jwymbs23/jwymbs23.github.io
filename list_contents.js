@@ -16,7 +16,7 @@ var slides = ["bananas",
 	      "yoghurt",
 	      "mint",
 	      "spinach",
-	      "cherry tomatoes"
+	      "cherry tomatoes",
 	      "arugula",
 	      "pie crust",
 	      "parmesan",
